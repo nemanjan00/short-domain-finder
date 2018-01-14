@@ -8,6 +8,8 @@ npm install short-domain-finder
 
 ## Usage
 
+API is obviously not yet ready. 
+
 ```javascript
 const shortDomainFinder = require("short-domain-finder");
 
