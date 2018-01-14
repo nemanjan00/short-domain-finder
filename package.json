@@ -6,5 +6,8 @@
   "repository": "https://github.com/nemanjan00/short-domain-finder",
   "author": "nemanjan00",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "node-whois": "^2.1.3"
+  }
 }
