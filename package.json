@@ -1,7 +1,7 @@
 {
   "name": "short-domain-finder",
   "version": "1.0.1",
-  "description": "Short rs domain finder",
+  "description": "Short domain finder",
   "main": "index.js",
   "repository": "https://github.com/nemanjan00/short-domain-finder",
   "author": "nemanjan00",
